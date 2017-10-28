@@ -1,0 +1,28 @@
+body {
+  font-family: 'Cardo', serif;
+  color: #7a7f81;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  color: #142d40;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 24px;
+  color: #3f4149;
+}
+
+h3 {
+  font-size: 16px;
+  color: #3f4149;
+}
+
+h4 {
+  font-size: 14px;
+}
